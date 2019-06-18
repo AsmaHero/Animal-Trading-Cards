@@ -1,0 +1,30 @@
+/* add your CSS here */
+/* calling the class with dot*/
+.animal-info {
+  /* adding rounded borded*/
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.stretch{
+  width:100%; height:100%;
+}
+#container{
+    /* adding rounded borded*/
+  border: 1px solid gray;
+  border-radius: 5px;
+  /* Adding space beween image , title and info */
+  padding: 1em;
+}
+/* calling the  id with hashtag */
+#interesting-fact {
+  font-style: italic;
+}
+/* calling the style of ul elements */
+ul#facts{
+  /* removing dots from list items */
+list-style-type: none;
+}
+/* calling the id of ul and class of span tag */
+ul#facts > li > span.label {
+  font-weight: bolder;
+}
