@@ -38,3 +38,6 @@ remove dots from the animal's list items
 add a border around the animal's name, image, and information
 add a border around the animal's information
 add spacing between the animal's name, image, and information (you will need to use the property padding)
+  
+  
+  ![birds](https://user-images.githubusercontent.com/48783969/59665448-9d91ca00-91bb-11e9-85e1-1ef2d3065dd5.jpg)
